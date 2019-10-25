@@ -25,3 +25,23 @@ header.masthead {
     }
   }
 }
+
+.title {
+    padding: 50px;
+    font-size: 45px;
+}
+
+.showcase .lead {
+    font-size: 30px;
+    background: #008fff;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    line-height: 40px;
+}
+
+body {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,11 +1,13 @@
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
+  color:  #fff;
   .features-icons-item {
     max-width: 20rem;
     .features-icons-icon {
       height: 7rem;
       i {
+        color: #fefefe !important;
         font-size: 4.5rem;
       }
     }
